@@ -1,1 +1,2 @@
 # Python-Training-Code
+This repository contains the Jupyter Notebook **"Basics of Python Workshop 2023"**, which introduces fundamental concepts in Python programming. It is designed for beginners and covers essential topics such as variables, data types, control flow (if statements, loops), functions, and basic data structures like lists and dictionaries. This notebook serves as a practical learning resource for anyone starting with Python and can be used for self-study, teaching, or workshops.
